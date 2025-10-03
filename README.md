@@ -27,7 +27,7 @@ Jogo da velha 3D.
 
 ## 📬 Me encontre em:
 
-- [LinkedIn](https://www.linkedin.com/in/joaodasilva)
+- [LinkedIn](https://www.linkedin.com/in/MatheusHenriqueGamalier)
 
 ---
 <!-- Fim do README -->
